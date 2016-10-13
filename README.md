@@ -1,24 +1,3 @@
-# README
+# Track memory utilization of processes and graph the data via Chartkick, Highcharts, and Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please read [blog post](http://ericlondon.com/2016/10/16/track-memory-utilization-of-processes-and-graph-the-data-via-chartkick-highcharts-and-rails.html) for more information.
